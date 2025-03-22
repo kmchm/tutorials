@@ -1,4 +1,8 @@
 # DIT114 Git Tutorial
+## Links
+- [Git Documentation](https://git-scm.com/docs)
+- [Git Cheatsheet](https://training.github.com)
+
 ## What is Git?
 ["git" can mean anything, depending on your mood.](https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 
