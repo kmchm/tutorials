@@ -10,6 +10,7 @@
 ["git" can mean anything, depending on your mood.](https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 
 ![](res/xkcd.png)
+
 [xkcd.com/1597/](https://xkcd.com/1597/)
 
 # Installing Git
